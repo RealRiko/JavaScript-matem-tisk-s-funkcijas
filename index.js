@@ -1,6 +1,9 @@
-function pi() {
-    return Math.PI;
+function kvadrata(x) {
+    return Math.pow(x, 2);
 }
 
 // Piemērs, kā izmantot funkciju
-console.log(pi()); // Izvadīs: 3.141592653589793
+console.log(kvadrata(5));  // Izvadīs: 25
+console.log(kvadrata(2));  // Izvadīs: 4
+console.log(kvadrata(-3)); // Izvadīs: 9
+
