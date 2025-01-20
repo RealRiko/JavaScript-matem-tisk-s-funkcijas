@@ -3,4 +3,4 @@ function pi() {
 }
 
 // Piemērs, kā izmantot funkciju
-console.log(pi()); // Izvadīs: 3.14159265358979
+console.log(pi()); // Izvadīs: 3.141592653589793
